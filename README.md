@@ -1,2 +1,16 @@
-# User Authentication With Express and Mongo
-Project code to support the [Treehouse](https://teamtreehouse.com) course [User Authentication With Express and Mongo](https://teamtreehouse.com/library/user-authentication-with-express-and-mongo)
+# Express_Bookworm-Authentication
+
+An application that uses Express with MongoDB and Pug to implement a custom user authentication system that controls users access to web resources.
+
+## Technologies Used
+
+- Node
+- Express
+- MongoDB
+- Pug
+
+## Concepts Implemented
+
+- Authentication
+- Routing
+- Cookies
