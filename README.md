@@ -8,9 +8,14 @@ An application that uses Express with MongoDB and Pug to implement a custom user
 - Express
 - MongoDB
 - Pug
+- Body Parser
+- Bcrypt
 
 ## Concepts Implemented
 
 - Authentication
 - Routing
 - Cookies
+- Encryption
+- Templating
+- Middleware
